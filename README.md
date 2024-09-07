@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![image](https://github.com/user-attachments/assets/bd21bbf3-b6c1-4b78-adb7-345e972c5f1f) <br>
-自分、なかなかやばい人やな
+![image](https://github.com/user-attachments/assets/3daaf6d2-44de-46fd-a6c5-847f5e5dbe9f)
+<br>
+自分、なかなかやばい人やな<br>
 画像：https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadidSw
 
 ## Getting Started
