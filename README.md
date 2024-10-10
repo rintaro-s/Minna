@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <br>
 自分、なかなかやばい人やな<br>
 画像：https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadidSw
-character:ui shigure (ui-mama)
+character:ui shigure (ui-mama)しぐれうい
 
 ## Getting Started
 
