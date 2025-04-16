@@ -1,3 +1,6 @@
+あくせす　かうんたー<br>
+<img src="https://count.getloli.com/@rintaro-s?name=rintaro-s&theme=gelbooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ![image](https://github.com/user-attachments/assets/3daaf6d2-44de-46fd-a6c5-847f5e5dbe9f)
